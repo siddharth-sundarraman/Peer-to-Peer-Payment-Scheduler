@@ -8,4 +8,4 @@ Prerequisites
 - Django
 - Django REST framework
 - Celery
-- Redis (as the message broker)"# Peer-to-Peer-Payment-Scheduler" 
+- Redis (as the message broker)
